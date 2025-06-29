@@ -1,13 +1,13 @@
-# 📚 Data Science Daily Learning Log
+# 📚 Data Science Learning Log
 
 Welcome to my public **Data Science Learning Repository**!  
-This repo is my personal learning diary where I document everything I learn in the field of **Data Science** — one day at a time.
+This repo is my personal learning diary where I document everything I learn in the field of **Data Science** — one learnig at a time.
 
 ---
 
 ## 📌 What is this repo?
 
-This is **not a specific project**, but rather a **chronological record** of my journey in mastering data science fundamentals. Each day, I add:
+This is **not a specific project**, but rather a **chronological record** of my journey in mastering data science fundamentals.  I add:
 
 - Code snippets I practiced
 - Concepts I learned
